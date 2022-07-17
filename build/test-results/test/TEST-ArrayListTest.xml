@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayListTest" tests="38" skipped="0" failures="0" errors="0" timestamp="2022-05-05T20:04:41" hostname="yatorogod-laptop" time="0.026">
+  <properties/>
+  <testcase name="testSizeWhenSizeIs0" classname="ArrayListTest" time="0.003"/>
+  <testcase name="testRemoveObjectFirstElement" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testIsEmptyWhenEmpty" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testAddInIteratorAfterNext" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testAdd" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testAddInIteratorLastIsNotSet" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testClear" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testNext" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testPreviousIndexWhenEmptyCollection" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testNextOnEmptyCollection" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testHasPreviousWhenEmptyCollection" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRetainAll" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testAddInIteratorWhenEmptyList" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testSetAfterNext" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testSetWhenNeitherNextNorPreviousHaveBeenCalled" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testContainsAll" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testHasPreviousWhenIteratorAtTheEndOfTheCollection" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemoveTwoTimeInTheRow" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testPreviousAfterNextWithOneElement" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemoveObjectLastElement" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testAddInIteratorWhenIsNotEmptyListToTheBeginning" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testContains" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testSetAfterPrevious" classname="ArrayListTest" time="0.001"/>
+  <testcase name="penultimateElementIteratorsRemovalTest" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemoveBeforeNext" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testToArrayWhenInputArrayHaveCorrectSize" classname="ArrayListTest" time="0.005"/>
+  <testcase name="testRemoveIndexFirst" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testPreviousWhenEmptyCollection" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testHasNextWhenIteratorAtTheEndOfTheCollection" classname="ArrayListTest" time="0.001"/>
+  <testcase name="testRemoveIndexLast" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testToArrayWhenInputArrayHaveSizeOne" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testHasNextWhenEmptyCollection" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testAddAll" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testPreviousAfterNextMoreElements" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemoveAfterThePrevious" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testPreviousIndex" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testPreviousIndexWhenItEqualsTo1" classname="ArrayListTest" time="0.0"/>
+  <testcase name="testRemoveAll" classname="ArrayListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
